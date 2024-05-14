@@ -3,7 +3,7 @@
 		"web-url": "https://www.saucedemo.com/"
 	},
 	"automation-provision": {
-		"grid-url": "http://54.147.37.204:4444/wd/hub"
+		"grid-url": "http://localhost:4444/wd/hub"
 	},
 	"browser": {
 		"screenshots": true,
